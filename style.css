@@ -1,0 +1,45 @@
+.container {
+    margin-left: 38px;
+}
+body {
+    margin: 0;
+}
+nav {
+    margin-left: 0px;
+    background-color: black;
+    color: white;
+}
+button {
+    margin-left: 0px;
+    background-color: black;
+    color: white;
+    padding: 12px 48px 13px 49px;
+    
+}
+.nav {
+    padding-left: 38px;
+    padding-top: 29px;
+    padding-bottom: 29px;
+}
+.text {
+    font-family: Inter;
+    font-style: light;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 29px;
+    line-height: 100%;
+    vertical-align: top;
+}
+img {
+    height: 911px;
+    width: 729px;
+}
+h2 {
+    font-family: Inter;
+    font-style: regular;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 77px;
+    line-height: 100%;
+    vertical-align: top;
+}
